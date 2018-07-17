@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="hint_type_details_here">Type details here....</string>
+</resources>
